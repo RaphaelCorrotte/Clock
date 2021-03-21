@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    clock (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    logger (1.4.3)
+    rake (13.0.3)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  clock!
+  logger
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.2.13
