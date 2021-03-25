@@ -1,0 +1,2 @@
+class ClockError < RuntimeError
+end
